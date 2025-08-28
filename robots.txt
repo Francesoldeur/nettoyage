@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /services.html
+Allow: /a-propos.html
+Allow: /contact.html
+Allow: /style.css
+Allow: /image*.jpg
+Disallow: /admin/
+Disallow: /test/
+Disallow: /private/
+
+Sitemap: https://www.mmepropre.fr/sitemap.xml
